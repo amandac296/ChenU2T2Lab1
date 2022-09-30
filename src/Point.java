@@ -39,7 +39,12 @@ public class Point {
 
     //a "setter" method for y
     public int setY (int newY) {
-        y = newY
+        y = newY;
+    }
+
+    //method named coordinate that has no parameter
+    public void coordinate (){
+        System
     }
 
 }
